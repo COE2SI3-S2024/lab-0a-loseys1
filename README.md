@@ -1,4 +1,4 @@
 # COE2SH4-Lab0-starter
-MacID: [Insert your macID here]
+MacID: [loseys]
 
-StudentID: [Insert your numerical student ID here]
+StudentID: [400405521]
